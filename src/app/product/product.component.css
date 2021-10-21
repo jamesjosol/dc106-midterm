@@ -67,17 +67,17 @@ div.card-image img {
   div.card-image img {
     width: 100%;
     height: auto;
+    border-radius: 10px 10px 0 0;
   }
   
-
   .card-image {
       flex-direction: column;
   }
 
-
   .card {
     width: 100%;
     margin-top: -4px;
+    border-radius: 0px 0px 10px 10px;
   }
 }
 
